@@ -2,8 +2,8 @@
 
 Correção do plugin Mixamo Animation Retargeter para Godot 4.6.
 
-[![PLUGIN](https://img.shields.io/badge/ios-lightgrey)](https://github.com/RaidTheory/Godot-Mixamo-Animation-Retargeter)
-[![GODOT](https://img.shields.io/badge/design-figma-blueviolet)](https://godotengine.org)
+[![PLUGIN](https://img.shields.io/badge/plugin-retargeter-lightgrey)](https://github.com/RaidTheory/Godot-Mixamo-Animation-Retargeter)
+[![GODOT](https://img.shields.io/badge/engine-godot-blue)](https://godotengine.org)
 
 ## Setup
 
